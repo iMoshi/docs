@@ -1,45 +1,30 @@
 [
 	{
-		"group_title": "Getting Started",
-		"group_items": [
-			{ "title": "Introduction", "route": "/docs" },
-			{ "title": "Installation", "route": "/docs/user/en/installation" },
-			{ "title": "Documentation", "route": "/docs/user/en" },
-			{ "title": "Tutorial", "route": "/docs/user/en/tutorial" },
-			{ "title": "Guides", "route": "/docs/user/en/guides" }
-		]
-	},
-	{
 		"group_title": "Basics",
 		"group_items": [
-			{ "title": "What is Frappe?", "route": "/docs/user/en/basics/what-is-frappe" },
-			{ "title": "Why Frappe?", "route": "/docs/user/en/basics/why" },
-			{ "title": "Architecture", "route": "/docs/user/en/basics/architecture" },
-			{ "title": "Directory Structure", "route": "/docs/user/en/basics/directory-structure" },
-			{ "title": "Apps", "route": "/docs/user/en/basics/apps" },
-			{ "title": "Sites", "route": "/docs/user/en/basics/sites" },
-			{ "title": "DocTypes", "route": "/docs/user/en/basics/doctypes" },
-			{ "title": "Users and Permission", "route": "/docs/user/en/basics/users-and-permissions" }
+			{ "title": "Creating a document", "route": "/docs/user/en/basics/what-is-frappe" },
+			{ "title": "Assigning a user?", "route": "/docs/user/en/basics/why" },
+			{ "title": "Creating a report", "route": "/docs/user/en/basics/architecture" },
+			{ "title": "Attaching a file", "route": "/docs/user/en/basics/directory-structure" }
 		]
 	},
 	{
 		"group_title": "RFQ Management",
 		"group_items": [
-			{ "title": "Introduction", "route": "/docs" },
-			{ "title": "Installation", "route": "/docs/user/en/installation" },
-			{ "title": "Documentation", "route": "/docs/user/en" },
-			{ "title": "Tutorial", "route": "/docs/user/en/tutorial" },
-			{ "title": "Guides", "route": "/docs/user/en/guides" }
+			{ "title": "Registering a RFQ", "route": "/docs" },
+			{ "title": "Changing its status", "route": "/docs/user/en/installation" }
 		]
 	},
 	{
 		"group_title": "PO Management",
 		"group_items": [
-			{ "title": "Introduction", "route": "/docs" },
-			{ "title": "Installation", "route": "/docs/user/en/installation" },
-			{ "title": "Documentation", "route": "/docs/user/en" },
-			{ "title": "Tutorial", "route": "/docs/user/en/tutorial" },
-			{ "title": "Guides", "route": "/docs/user/en/guides" }
+			{ "title": "What is PO", "route": "/docs" },
+			{ "title": "Creating SO", "route": "/docs/user/en/installation" },
+			{ "title": "Requesting Items", "route": "/docs/user/en" },
+			{ "title": "Buying Items", "route": "/docs/user/en/tutorial" },
+			{ "title": "Receiving Items", "route": "/docs/user/en/tutorial" },
+			{ "title": "Billing Customers", "route": "/docs/user/en/guides" },
+			{ "title": "Delivering Items", "route": "/docs/user/en/tutorial" }
 		]
 	},
 	{
@@ -47,9 +32,7 @@
 		"group_items": [
 			{ "title": "Item", "route": "/docs" },
 			{ "title": "Item Pricing", "route": "/docs/user/en/installation" },
-			{ "title": "Warehouse", "route": "/docs/user/en" },
-			{ "title": "Tutorial", "route": "/docs/user/en/tutorial" },
-			{ "title": "Guides", "route": "/docs/user/en/guides" }
+			{ "title": "Warehouse", "route": "/docs/user/en" }
 		]
 	}
 ]
