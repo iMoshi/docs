@@ -18,13 +18,13 @@
 	{
 		"group_title": "PO Management",
 		"group_items": [
-			{ "title": "What is PO", "route": "/docs" },
-			{ "title": "Creating SO", "route": "/docs/user/en/installation" },
-			{ "title": "Requesting Items", "route": "/docs/user/en" },
-			{ "title": "Buying Items", "route": "/docs/user/en/tutorial" },
-			{ "title": "Receiving Items", "route": "/docs/user/en/tutorial" },
-			{ "title": "Billing Customers", "route": "/docs/user/en/guides" },
-			{ "title": "Delivering Items", "route": "/docs/user/en/tutorial" }
+			{ "title": "Fulfilling an order", "route": "/docs/buying" },
+			{ "title": "Creating SO", "route": "/docs/buying/" },
+			{ "title": "Requesting Items", "route": "/docs/buying/material-request" },
+			{ "title": "Buying Items", "route": "/docs/buying/purchase-order" },
+			{ "title": "Receiving Items", "route": "/docs/buying/purchase-receipt" },
+			{ "title": "Billing Customers", "route": "/docs/buying/sales-invoice" },
+			{ "title": "Delivering Items", "route": "/docs/buying/delivery-note" }
 		]
 	},
 	{
