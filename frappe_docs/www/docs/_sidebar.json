@@ -2,17 +2,18 @@
 	{
 		"group_title": "Basics",
 		"group_items": [
-			{ "title": "Creating a document", "route": "/docs/user/en/basics/what-is-frappe" },
-			{ "title": "Assigning a user?", "route": "/docs/user/en/basics/why" },
-			{ "title": "Creating a report", "route": "/docs/user/en/basics/architecture" },
-			{ "title": "Attaching a file", "route": "/docs/user/en/basics/directory-structure" }
+			{ "title": "Creating a document", "route": "/docs/basics/new-document" },
+			{ "title": "Assigning a user?", "route": "/docs/basics/assign-user" },
+			{ "title": "Creating a report", "route": "/docs/basics/view-report" },
+			{ "title": "Attaching a file", "route": "/docs/basics/file-attachment" }
 		]
 	},
 	{
 		"group_title": "RFQ Management",
 		"group_items": [
-			{ "title": "Registering a RFQ", "route": "/docs" },
-			{ "title": "Changing its status", "route": "/docs/user/en/installation" }
+			{ "title": "Registering a RFQ", "route": "/docs/rfq/new" },
+			{ "title": "Submitting", "route": "/docs/rfq/submit" },
+			{ "title": "Status", "route": "/docs/rfq/status" }
 		]
 	},
 	{
