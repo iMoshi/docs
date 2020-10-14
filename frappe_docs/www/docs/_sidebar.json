@@ -31,9 +31,9 @@
 	{
 		"group_title": "Stock Management",
 		"group_items": [
-			{ "title": "Item", "route": "/docs" },
-			{ "title": "Item Pricing", "route": "/docs/user/en/installation" },
-			{ "title": "Warehouse", "route": "/docs/user/en" }
+			{ "title": "Item", "route": "/docs/stock/item" },
+			{ "title": "Item Pricing", "route": "/docs/stock/item-price" },
+			{ "title": "Warehouse", "route": "/docs/stock/warehouse" }
 		]
 	}
 ]
