@@ -2,30 +2,30 @@
 	{
 		"group_title": "Basics",
 		"group_items": [
-			{ "title": "Creating a document", "route": "/docs/basics/new-document" },
-			{ "title": "Assigning a user?", "route": "/docs/basics/assign-user" },
-			{ "title": "Creating a report", "route": "/docs/basics/view-report" },
-			{ "title": "Attaching a file", "route": "/docs/basics/file-attachment" }
+			{ "title": "A Document", "route": "/docs/basics/new-document" },
+			{ "title": "Assign a user", "route": "/docs/basics/assign-user" },
+			{ "title": "Create a report", "route": "/docs/basics/view-report" },
+			{ "title": "Attach a file", "route": "/docs/basics/file-attachment" }
 		]
 	},
 	{
 		"group_title": "RFQ Management",
 		"group_items": [
-			{ "title": "Registering a RFQ", "route": "/docs/rfq/new" },
-			{ "title": "Submitting", "route": "/docs/rfq/submit" },
-			{ "title": "Status", "route": "/docs/rfq/status" }
+			{ "title": "Create RFQ", "route": "/docs/rfq/new" },
+			{ "title": "Submit RFQ", "route": "/docs/rfq/submit" },
+			{ "title": "Statuses", "route": "/docs/rfq/status" }
 		]
 	},
 	{
 		"group_title": "PO Management",
 		"group_items": [
-			{ "title": "Fulfilling an order", "route": "/docs/buying" },
-			{ "title": "Creating SO", "route": "/docs/buying/" },
-			{ "title": "Requesting Items", "route": "/docs/buying/material-request" },
-			{ "title": "Buying Items", "route": "/docs/buying/purchase-order" },
-			{ "title": "Receiving Items", "route": "/docs/buying/purchase-receipt" },
-			{ "title": "Billing Customers", "route": "/docs/buying/sales-invoice" },
-			{ "title": "Delivering Items", "route": "/docs/buying/delivery-note" }
+			{ "title": "Fulfill an order", "route": "/docs/buying" },
+			{ "title": "Create SO", "route": "/docs/buying/" },
+			{ "title": "Request Items", "route": "/docs/buying/material-request" },
+			{ "title": "Purchase Items", "route": "/docs/buying/purchase-order" },
+			{ "title": "Receive Items", "route": "/docs/buying/purchase-receipt" },
+			{ "title": "Bill Customers", "route": "/docs/buying/sales-invoice" },
+			{ "title": "Deliver Items", "route": "/docs/buying/delivery-note" }
 		]
 	},
 	{
